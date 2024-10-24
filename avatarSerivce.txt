@@ -1,0 +1,2 @@
+We can crate an avatar for users 
+we can implement some feature to an avatar
